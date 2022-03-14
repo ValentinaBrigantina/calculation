@@ -1,7 +1,7 @@
 {
-  "name": "calculation",
+  "name": "calculation-test-task",
   "version": "1.0.0",
-  "description": "",
+  "description": "######Arithmetic operations:     * Addition     * Subtraction     * Multiplication     * Division",
   "main": "src/script.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
