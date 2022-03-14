@@ -1,0 +1,29 @@
+{
+  "name": "calculation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ValentinaBrigantina/calculation.git"
+  },
+  "keywords": [
+    "calculation"
+  ],
+  "author": "Valentina",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ValentinaBrigantina/calculation/issues"
+  },
+  "homepage": "https://github.com/ValentinaBrigantina/calculation#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
